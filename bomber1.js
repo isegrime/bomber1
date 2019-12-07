@@ -1,4 +1,4 @@
-function addNum(a,b){
-	retune a+b;
+function addNum(c,b){
+	retune c+b;
 }
  
